@@ -1,3 +1,7 @@
+<img width="1000" height="500
+   " alt="Screenshot 2025-09-10 162615" src="https://github.com/user-attachments/assets/49f9d58b-e3d7-4e7c-9d24-99a5fdc3f728" />
+
+
 # 📊 Live Temperature Dashboard
 
 ![Dashboard Screenshot](images/dashboard-screenshot.png)
