@@ -1,10 +1,11 @@
+
+# 📊 Live Temperature Dashboard
+
+
 <img width="1000" height="500
    " alt="Screenshot 2025-09-10 162615" src="https://github.com/user-attachments/assets/49f9d58b-e3d7-4e7c-9d24-99a5fdc3f728" />
 
 
-# 📊 Live Temperature Dashboard
-
-![Dashboard Screenshot](images/dashboard-screenshot.png)
 
 The **Live Temperature Dashboard** is an interactive data visualization project built using **Microsoft Power BI**.  
 It provides real-time insights into temperature patterns, allowing users to monitor and analyze climate data in an intuitive and user-friendly way.  
